@@ -1,0 +1,30 @@
+Codice parco;cnt_parco;Nome;Anno;Legge;Numero;Nome breve;Tipo;Gestore
+P01;2;Parco Naturale Regionale Bracciano-Martignano;0;;1;Bracciano-Martignano;Parco Regionale;Regione Lazio
+P02;20;Parco Naturale Regionale Bracciano-Martignano;0;;2;Bracciano-Martignano;Parco Regionale;Regione Lazio
+P03;5;Parco Naturale Regionale Bracciano-Martignano;0;;3;Bracciano-Martignano;Parco Regionale;Regione Lazio
+P04;1;Monumento Naturale di Galeria Antica;0;;28;Galeria Antica;Monumento;Roma Natura
+P05;179;Parco Naturale Regionale di Veio;0;;4;Veio;Parco Regionale;Regione Lazio
+P07;7;Monumento naturale di Mazzalupetto;0;;27;Mazzalupetto;Monumento;Roma Natura
+P08;51;Riserva Naturale dell'Insugherata;1997;L.R. 29/97;26;Insugherata;Riserva Regionale;Roma Natura
+P09;43;Riserva Naturale della Marcigliana;1997;L.R. 29/97;16;Marcigliana;Riserva Regionale;Roma Natura
+P10;10;Parco Regionale Urbano del Pineto;1987;;24;Pineto;Parco Regionale;Roma Natura
+P11;19;Riserva Naturale di Monte Mario;1997;L.R. 29/97;25;Monte Mario;Riserva Regionale;Roma Natura
+P12;2;Parco Regionale Urbano di Aguzzano;1989;;17;Aguzzano;Parco Regionale;Roma Natura
+P13;124;Riserva Naturale della Valle dell'Aniene;1997;L.R. 29/97;18;Valle dell'Aniene;Riserva Regionale;Roma Natura
+P14;12;Riserva Naturale dell'Acquafredda;1997;L.R. 29/97;23;Acquafredda;Riserva Regionale;Roma Natura
+P15;20;Riserva Naturale Statale del Litorale Romano;0;;6;Litorale Romano;Riserva Statale;Regione Lazio
+P16;79;Riserva Naturale della  Valle dei Casali;1997;L.R. 29/97;21;Valle dei Casali;Riserva Regionale;Roma Natura
+P17;30;Riserva Naturale della Tenuta dei Massimi;1997;L.R. 29/97;22;Tenuta dei Massimi;Riserva Regionale;Roma Natura
+P18;28;Riserva Naturale Statale del Litorale Romano;0;;7;Litorale Romano;Riserva Statale;Regione Lazio
+P19;1;Riserva Naturale della Tenuta dei Massimi;0;;8;Tenuta dei Massimi;Riserva Regionale;Roma Natura
+P20;1;Riserva Naturale della Tenuta dei Massimi;0;;9;Tenuta dei Massimi;Riserva Regionale;Roma Natura
+P21;1;Riserva Naturale della Tenuta dei Massimi;0;;10;Tenuta dei Massimi;Riserva Regionale;Roma Natura
+P22;62;Riserva Naturale del Laurentino - Acqua Acetosa;1997;L.R. 29/97;20;Laurentino-Acqua Acetosa;Riserva Regionale;Roma Natura
+P23;109;Parco Naturale Regionale Appia Antica;1988;;11;Appia Antica;Parco Regionale;Regione Lazio
+P24;257;Riserva Naturale Statale del Litorale Romano;0;;12;Litorale Romano;Riserva Statale;Regione Lazio
+P25;59;Riserva Naturale Statale del Litorale Romano;0;;13;Litorale Romano;Riserva Statale;Regione Lazio
+P26;10;Riserva Naturale Statale Tenuta di Castelporziano;0;;14;Tenuta di Castelporziano;Riserva Statale;Regione Lazio
+P27;141;Riserva Naturale di Decima -Malafede;1997;L.R. 29/97;19;Decima-Malafede;Riserva Regionale;Roma Natura
+P28;1;Riserva Naturale Statale Tenuta di Castelporziano;0;;15;Tenuta di Castelporziano;Riserva Statale;Regione Lazio
+;0;Area Marina Protetta delle Secche di Tor Paterno;2000;D.M.A.;30;Secche di Tor Paterno;Area Marina;Roma Natura
+;0;Monumento Naturale Parco della Cellulosa;0;;29;Cellulosa;Monumento;Roma Natura
